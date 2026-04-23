@@ -1,3 +1,6 @@
+# Made by: Tyler Ly
+# Humber ID: n01725055
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
